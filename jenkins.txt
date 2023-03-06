@@ -1,3 +1,5 @@
 Welcome to jenkins project.
 This is my first jenkins project.
 This jenkins project created with springboot and AWS EC2 instance.
+This project is continuous ditecting changes in github codes and files.
+And show the status of the changes.
